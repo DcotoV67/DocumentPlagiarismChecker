@@ -25,7 +25,7 @@ namespace DocumentPlagiarismChecker.Comparators.ParagraphWordCounter
 
         /// Comentario 1
 
-        /// Hostie pilotes, que hi son de bones! M'encanten!!
+        /// Hostie pilotes, que hi son de bones! M'encanten!
         /// </summary>
         /// <param name="fileLeftPath">The left side file's path.</param>
         /// <param name="fileRightPath">The right side file's path.</param>
