@@ -37,7 +37,9 @@ namespace DocumentPlagiarismChecker.Comparators.DocumentWordCounter
 
         /// Comentario 2
 
-        /// Counts how many words and how many times appears within each document, and checks the matching percentage.
+        ///Hola, soy alejandro tengo 19 años y me gustan los canelones
+
+        /// Cuenta cuántas palabras y cuántas veces aparece dentro de cada documento, y verifica el porcentaje coincidente.
         /// </summary>
         /// <returns>The matching's results.</returns>
         public override ComparatorMatchingScore Run(){
