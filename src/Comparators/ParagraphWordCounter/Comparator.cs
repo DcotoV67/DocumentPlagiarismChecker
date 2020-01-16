@@ -25,7 +25,7 @@ namespace DocumentPlagiarismChecker.Comparators.ParagraphWordCounter
 
         /// Comentario 1
 
-        /// Creates a new instance for the Comparator.
+        /// Crea una nova instancia.
         /// </summary>
         /// <param name="fileLeftPath">The left side file's path.</param>
         /// <param name="fileRightPath">The right side file's path.</param>
