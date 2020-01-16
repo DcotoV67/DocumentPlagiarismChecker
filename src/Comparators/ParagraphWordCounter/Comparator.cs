@@ -22,6 +22,9 @@ namespace DocumentPlagiarismChecker.Comparators.ParagraphWordCounter
     internal class Comparator: Core.BaseComparator<Document>
     {  
         /// <summary>
+
+        /// Comentario 1
+
         /// Creates a new instance for the Comparator.
         /// </summary>
         /// <param name="fileLeftPath">The left side file's path.</param>
@@ -31,6 +34,9 @@ namespace DocumentPlagiarismChecker.Comparators.ParagraphWordCounter
         }  
         
         /// <summary>
+
+        /// Comentario 2
+
         /// Counts how many words and how many times appears within each paragraph in a document, and checks the matching percentage.
         /// </summary>
         /// <returns>The matching's results.</returns>
